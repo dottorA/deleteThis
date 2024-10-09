@@ -52,5 +52,5 @@ Git хранит свои файлы и историю прямо в папке 
 ## Красивая каринтка из Интернета
 
 <p align="center">
-  <img width="400" height="250" src="https://img.freepik.com/free-photo/cute-ai-generated-cartoon-bunny_23-2150288872.jpg?size=338&ext=jpg&ga=GA1.1.1297763733.1728345600&semt=ais_hybrid">
+  <img width="400" height="600" src="https://img.freepik.com/free-photo/cute-ai-generated-cartoon-bunny_23-2150288872.jpg?size=338&ext=jpg&ga=GA1.1.1297763733.1728345600&semt=ais_hybrid">
 </p>
