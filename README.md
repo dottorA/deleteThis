@@ -15,5 +15,5 @@ Git — это распределенная система управления 
 - git config --global user.email ВашаПочта@example.com 
 - git config --global color.ui true 
 - git config --global color.status auto 
-- git config --global color.branch auto
+- git config --global color.branch auto 
 Как мы отметили ранее, git хранит свои файлы и историю прямо в папке проекта. Чтобы создать новый репозиторий, нам нужно открыть терминал, зайти в папку нашего проекта и выполнить команду init. Это включит приложение в этой конкретной папке и создаст скрытую директорию. git, где будет храниться история репозитория и настройки.
