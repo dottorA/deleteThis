@@ -49,8 +49,8 @@ Git хранит свои файлы и историю прямо в папке 
 Что то грустное из 1 столбика| Что то грустное из 2 столбика| Что то грустное из 3 столбика
 Что то веселое из 1 столбика| Что то веселое из 2 столбика| Что то веселое из 3 столбика
 
-##Красивая каринтка из Интернета
+## Красивая каринтка из Интернета
 
 <p align="center">
-  <img width="400" height="250" src="[https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg](https://img.freepik.com/free-photo/view-of-3d-adorable-cat-with-fluffy-clouds_23-2151113419.jpg?w=740&t=st=1728458337~exp=1728458937~hmac=7f5359894eef329398aa44158ef27c0faba4fb9f888581ca1d25d24a5f484768)">
+  <img width="400" height="250" src="https://img.freepik.com/free-photo/cute-ai-generated-cartoon-bunny_23-2150288872.jpg?size=338&ext=jpg&ga=GA1.1.1297763733.1728345600&semt=ais_hybrid">
 </p>
